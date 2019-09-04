@@ -4,5 +4,8 @@ if hungry=='yes':
     print("Eat pizza")
     print("Eat burger")
     print("Eat CHicken")
+elif hungry=='thirsty':
+    print("Drink water")
+
 else:
     print("Do homework")
