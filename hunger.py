@@ -4,7 +4,5 @@ if hungry=='yes':
     print("Eat pizza")
     print("Eat burger")
     print("Eat CHicken")
-elif hungry=='no':
-    print("Do homework")
 else:
-    print("Keep quiet")
+    print("Do homework")
